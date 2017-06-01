@@ -1,7 +1,7 @@
 $(function(){
   if(!supports_storage) {
     $('#theme-dropdown').hide();
-  } 
+  }
   if (localStorage.theme) {
     var themesheet = $('<link href="'+localStorage.theme+'" rel="stylesheet" />');
   } else {
