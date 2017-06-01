@@ -2,3 +2,41 @@
   height: 100%;
   width: auto;
 }
+
+.nextToHeader {
+  margin-top: 50px;
+}
+
+.indexBanner {
+  background-image: url(../images/background.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.indexText>* {
+  color: white;
+}
+
+.bigIcon {
+  font-size: 5rem;
+  color: grey;
+}
+
+footer {
+  padding-top: 50px;
+}
+
+.center {
+  text-align: center;
+}
+
+.separate {
+  padding-top: 40px;
+}
+
+.reduceBorder {
+  padding: 20px !important;
+}
