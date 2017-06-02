@@ -47,6 +47,11 @@
   margin-bottom: 40px;
 }
 
+.creditos {
+  font-size: 0.75em !important;
+  margin: 0;
+}
+
 footer {
   margin-bottom: 30px;
 }
