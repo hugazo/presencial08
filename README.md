@@ -12,13 +12,13 @@ Clonar el repositorio en una carpeta dentro de htdocs de tu servidor web.
 
 ### Instalación
 
-What things you need to install the software and how to install them
+Para clonar el repositorio hacer el siguiente comando:
 
 ```
 git clone https://github.com/hugazo/hugazo.github.io.git
 ```
 
-## Built With
+## Construido con
 
 * [Atom](https://atom.io/) - The web framework used
 * [Bootstrap](https://getbootstrap.com/) - Used to generate RSS Feeds
